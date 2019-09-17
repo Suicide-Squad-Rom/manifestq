@@ -86,7 +86,7 @@
   <project name="BlackDeaths/samsung_hardware" path="hardware/samsung" remote="github" revision="q" />
   <project name="BlackDeaths/qcom-common" path="device/samsung/qcom-common" remote="github" revision="q" />
   
-  <project name="Q-Android-device/android_device_google_taimen" path="device/google/taimen" remote="github" revision="10"/>
+  <project name="Q-Android-device/android_device_google_taimen" path="device/google/taimen" remote="github" revision="Q"/>
   <project name="Q-Android-device/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="10"/>
   <project name="Q-Android-device/android_kernel_google_wahoo" path="kernel/google/wahoo" remote="github" revision="cr-8.0"/>
   <project name="Eamo5/proprietary_vendor_google" path="vendor/google" remote="github" revision="lineage-17.0"/>

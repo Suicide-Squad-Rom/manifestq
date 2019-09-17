@@ -78,4 +78,18 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,linux,arm" clone-depth="1" remote="los" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" groups="pdk,linux,arm" clone-depth="1" remote="los" />
 
+  <project name="BlackDeaths/klte" path="device/samsung/klte" remote="github" revision="q" />
+  <project name="BlackDeaths/klte-common" path="device/samsung/klte-common" remote="github" revision="q" />
+  <project name="BlackDeaths/msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="q" />
+  <project name="pascua28/android_kernel_samsung_msm8974-1" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="BlackDeaths/samsung_hardware" path="hardware/samsung" remote="github" revision="q" />
+  <project name="BlackDeaths/qcom-common" path="device/samsung/qcom-common" remote="github" revision="q" />
+  
+  <project name="Q-Android-device/android_device_google_taimen" path="device/google/taimen" remote="github" revision="10"/>
+  <project name="Q-Android-device/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="10"/>
+  <project name="Q-Android-device/android_kernel_google_wahoo" path="kernel/google/wahoo" remote="github" revision="cr-8.0"/>
+  <project name="Eamo5/proprietary_vendor_google" path="vendor/google" remote="github" revision="lineage-17.0"/>
+  
+  
 </manifest>

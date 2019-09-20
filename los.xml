@@ -80,7 +80,7 @@
   <project name="BlackDeaths/klte" path="device/samsung/klte" remote="github" revision="q" />
   <project name="BlackDeaths/klte-common" path="device/samsung/klte-common" remote="github" revision="q" />
   <project name="BlackDeaths/msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="q" />
-  <project name="pascua28/android_kernel_samsung_msm8974-1" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
+  <project name="fessmm/kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="pie" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
   <project name="BlackDeaths/samsung_hardware" path="hardware/samsung" remote="github" revision="q" />
   <project name="BlackDeaths/qcom-common" path="device/samsung/qcom-common" remote="github" revision="q" />
